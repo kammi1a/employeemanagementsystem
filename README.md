@@ -15,12 +15,12 @@ View Employees: View the list of all employees with their details (name, type, s
 
 ### Usage
 
-**User Interface**
+*User Interface*
 The application is built with a simple and beautiful GUI:
 
-**Input Section:** Type the name, type, and salary in the input field.
+*Input Section:* Type the name, type, and salary in the input field.
 
-**Buttons:**
+*Buttons:*
 Add Employee: Click this button to add the details to the employee list.
 Remove Employee: Remove the selected employee from the table.
 Calculate Salaries: Get the total sum of all employees' salaries.

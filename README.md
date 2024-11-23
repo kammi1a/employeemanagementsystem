@@ -1,6 +1,6 @@
 # Employee Management System
 
-*Overview*
+### Overview
 
 The Employee Management System is a JavaFX-based desktop application that allows you to manage employee records efficiently. You can add, remove, and calculate the salaries of employees. 
 

@@ -1,4 +1,4 @@
-#Employee Management System
+# Employee Management System
 
 *Overview*
 
@@ -13,7 +13,7 @@ View Employees: View the list of all employees with their details (name, type, s
 
 ----
 
-*Usage*
+### Usage
 
 User Interface
 The application is built with a simple and beautiful GUI:
@@ -28,7 +28,7 @@ Employee Table: A table that displays the list of employees, showing their names
 
 ----
 
-Example
+### Example
 Add Employee:
 Enter the employee details in the input field (e.g., Mila, Developer, 5000).
 Click on the Add Employee button.
@@ -40,8 +40,8 @@ Click the Calculate Salaries button to view the total salary for all employees.
 
 ----
 
-Screenshots
-![image](https://github.com/user-attachments/assets/f1b64fb5-2f9a-4b64-9dca-c969a663b590)
-![image](https://github.com/user-attachments/assets/21f6c9a1-25e0-42fa-ae8e-0a985a904374)
+### Screenshots
 
 
+![IMAGE 2024-11-24 01:37:46](https://github.com/user-attachments/assets/339e0f17-b0f8-4ebe-b1c6-628e1f3458d8)
+![IMAGE 2024-11-24 01:37:49](https://github.com/user-attachments/assets/aea8495c-0959-47d2-bda7-85bf5d642b55)
